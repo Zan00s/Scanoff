@@ -1,4 +1,3 @@
-markdown
 # Scanoff
 
 ## Description
@@ -24,12 +23,3 @@ Scanoff performs a full cycle of web application reconnaissance and security tes
 
 ```bash
 python main.py
-License
-
-This project is distributed under the GNU Affero General Public License v3.0.
-
-Contact
-
-Author: Elizaveta Timofeeva
-GitHub: Zan00s
-
